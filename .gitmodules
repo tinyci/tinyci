@@ -1,0 +1,9 @@
+[submodule "ci-runners"]
+	path = ci-runners
+	url = https://github.com/tinyci/ci-runners
+[submodule "ci-ui"]
+	path = ci-ui
+	url = https://github.com/tinyci/ci-ui
+[submodule "ci-agents"]
+	path = ci-agents
+	url = https://github.com/tinyci/ci-agents

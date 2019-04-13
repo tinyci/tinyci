@@ -1,4 +1,2 @@
-build: fetch-submodules
+build:
 	GITHUB_TOKEN=$(GITHUB_TOKEN) ./build-release.sh
-
-.PHONY: update-submodules build-release fetch-submodules

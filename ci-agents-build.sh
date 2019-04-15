@@ -7,4 +7,5 @@ make dist
 mv tinyci*.tar.gz ../release/ci-agents.tar.gz
 cd ../release/
 tar --strip 1 -C binaries -xpf ci-agents.tar.gz
+mv binaries/migrations .
 rm ci-agents.tar.gz

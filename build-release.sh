@@ -13,4 +13,4 @@ mkdir release/binaries
 # build overlay-runner
 GITHUB_TOKEN=$GITHUB_TOKEN ./ci-runners-build.sh
 cd release
-tar -zcpf ../release.tar.gz --xform s:'./':: .
+tar -zvcpf ../release.tar.gz $(find . -type f | sed -e 's!./!!')

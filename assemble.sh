@@ -14,7 +14,7 @@ removeTempdir() {
     rm -rf "${tempdir}"
   fi
 }
-trap removeTempdir INT QUIT
+trap removeTempdir INT QUIT EXIT
 
 release="tinyci-$(cat ci-agents/VERSION)"
 

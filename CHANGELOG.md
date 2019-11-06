@@ -1,3 +1,9 @@
+## 0.2.1 -- Wed Nov 05 22:49:56 PDT 2019
+
+0.2.1 represents a small fix in the overlay-runner.
+
+- The runner framework would leak goroutines and channels during signal handling.
+
 ## 0.2.0 -- Mon Nov 04 2019 11:18:39 PDT 2019
 
 0.2.0 represents a lot of bugfixes and a few large features:

@@ -1,3 +1,7 @@
+## 0.2.2 -- Thu Dec 19 14:23:12 PDT 2019
+
+Small fix to ci-ui's javascript dependencies
+
 ## 0.2.1 -- Wed Nov 05 22:49:56 PDT 2019
 
 0.2.1 represents a small fix in the overlay-runner.

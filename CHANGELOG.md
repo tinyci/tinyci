@@ -1,3 +1,12 @@
+## 0.2.4
+
+- golang 1.14
+- Upgrade library dependencies
+
+## 0.2.3
+
+We'll just forget about this one
+
 ## 0.2.2 -- Thu Dec 19 14:23:12 PDT 2019
 
 Small fix to ci-ui's javascript dependencies

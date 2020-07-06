@@ -1,3 +1,7 @@
+## 0.2.6
+
+Support non-master branches in overlay-runner (whoops)
+
 ## 0.2.5
 
 Support non-master branches

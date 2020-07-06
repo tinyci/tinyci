@@ -1,3 +1,7 @@
+## 0.2.5
+
+Support non-master branches
+
 ## 0.2.4
 
 - golang 1.14

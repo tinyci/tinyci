@@ -1,3 +1,7 @@
+## 0.2.7
+
+Bugfixes, experimental k8s runner
+
 ## 0.2.6
 
 Support non-master branches in overlay-runner (whoops)

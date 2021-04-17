@@ -1,3 +1,3 @@
-ci-agents https://github.com/tinyci/ci-agents v0.2.7
-ci-runners https://github.com/tinyci/ci-runners v0.2.7
-ci-ui https://github.com/tinyci/ci-ui v0.2.7
+ci-agents https://github.com/tinyci/ci-agents v0.3.0
+ci-runners https://github.com/tinyci/ci-runners v0.3.0
+ci-ui https://github.com/tinyci/ci-ui v0.3.0
